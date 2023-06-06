@@ -47,7 +47,6 @@ services:
 
 volumes:
   dbdata:
-#  wordpress:
 
 networks:
   app-network:
